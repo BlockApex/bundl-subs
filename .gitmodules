@@ -6,3 +6,7 @@
 	path = solana-programs
 	url = git@github.com:BlockApex/bundl-subs-solana-program.git
 	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:BlockApex/bundl-subs-frontend.git
+	branch = main
