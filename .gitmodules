@@ -1,0 +1,4 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:BlockApex/bundl-subs-backend.git
+	branch = main
