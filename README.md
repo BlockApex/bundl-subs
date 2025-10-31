@@ -56,5 +56,9 @@ Refer to the following submodules for their respective codebases:
 - **Backend:** NestJS, TypeScript, MongoDB
 - **Smart Contracts:** Rust, Anchor, Solana
 
-## TODO / Missing Pieces
-- [ ] Data Flow Chart (above)
+## Product Roadmap
+- Build Privacy Stack to limit both user-merchant & merchant-merchant visibility on-chain.
+- Build Merchant Portal for merchants to on-board and track subscriptions on user
+- Smart Yield to offset subscriptions with yield
+- Allow importing existing subscriptions for more inclusivity
+- Traditional card to enable bundling web2 subscriptions that don't accept crypto payments
