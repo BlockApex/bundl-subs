@@ -5,7 +5,7 @@
 
 **One payment. All your subscriptions. Powered by stablecoins.** No more random billing dates, surprise charges or failed payments.
 
-<a href="https://arena.colosseum.org/projects/explore/bundl" target="blank"><svg style="width:22px; padding-right: 6px;" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="32" height="32" fill="black" rx="16" /><path d="M26.5574 6.73698H5.78781V9.26779H26.5574V6.73698Z" fill="white"></path><path d="M24.5038 11.2324H7.83915V13.7632H24.5038V11.2324Z" fill="#ECECEC"></path><path d="M17.4347 15.7284H14.9039V26.8419H17.4347V15.7284Z" fill="white"></path><path d="M12.3767 15.7284H9.84585V26.8419H12.3767V15.7284Z" fill="white"></path><path d="M22.5017 15.7284H19.9708V26.8419H22.5017V15.7284Z" fill="white"></path></svg></a>
+<a href="https://arena.colosseum.org/projects/explore/bundl" target="blank"><img src="assets/colloseum.svg" style="width:22px; padding-right: 6px;" alt="Colloseum Logo"/></a>
 <a href="https://www.legends.fun/products/f47715cc-cd61-414e-83b9-229786e48817" target="blank"><img src="assets/legends.png" style="width:22px;" alt="BundleSubs Logo"/></a>
 [![X](assets/x.png)](https://x.com/bundlsubs)
 [![Website](assets/globe.png)](https://bundlsubs.com)
